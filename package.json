@@ -1,0 +1,22 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "cisco test",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhpq2018/dashboardec2.git"
+  },
+  "author": "Jose Pereyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhpq2018/dashboardec2/issues"
+  },
+  "homepage": "https://github.com/jhpq2018/dashboardec2#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
